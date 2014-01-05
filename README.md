@@ -1,4 +1,4 @@
-ContactProject
-==============
+java_web_test
+=============
 
-testProj
+JavaEE, Spring, Hibernate, etc
